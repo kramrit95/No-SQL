@@ -45,8 +45,11 @@
 ##  Types Of Nosql ?
 
     . Document-based databases.
+    
     . Key-value stores.
+    
     . Column-oriented databases.
+    
     . Graph-based databases.
 
 
